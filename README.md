@@ -1,2 +1,2 @@
 # Hello World Project
-# w3shcools-git-course
+# w3schools-git-course
